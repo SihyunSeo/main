@@ -1,0 +1,13 @@
+show databases;
+
+use moa;
+
+show tables;
+
+desc member;
+
+select * from member;
+
+desc freeboard
+
+select * from freeboard;
